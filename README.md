@@ -1,5 +1,10 @@
 
 
+- https://ansible.readthedocs.io/projects/molecule/getting-started/
+- https://ansible.readthedocs.io/projects/molecule/installation/
+
+
+
 ``bash
 git clone https://github.com/taylormonacelli/biggestage
 cd biggestage
