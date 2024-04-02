@@ -5,7 +5,7 @@
 
 
 
-``bash
+```bash
 git clone https://github.com/taylormonacelli/biggestage
 cd biggestage
 
